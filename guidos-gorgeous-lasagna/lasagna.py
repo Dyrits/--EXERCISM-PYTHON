@@ -1,3 +1,5 @@
+""" Guido's Gorgeous Lasagna """
+
 EXPECTED_BAKE_TIME = 40
 PREPARATION_TIME = 2
 
